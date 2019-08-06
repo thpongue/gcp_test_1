@@ -1,0 +1,19 @@
+create a simple proof of concept app which:
+	- triggers the creation of a new svg image
+	- loads a gallery of all images
+
+nice to have:
+	- when a new image is loaded the front-end gets notified
+
+tech spec:
+	- Docker container
+	- Node
+	- SVG stored in nosql database
+	- Angular 8 cli app
+	- Use bootstrap or similar for styling
+	- Must be locally testable 
+
+tech challenges:
+	- what it the workflow?
+			- how do we test this locally?
+

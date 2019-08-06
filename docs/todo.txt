@@ -1,0 +1,3 @@
+[] mvp docker angular app
+	- create angular app
+	- install docker

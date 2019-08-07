@@ -10,7 +10,7 @@ tech spec:
 	- Node
 	- SVG stored in nosql database
 	- Angular 8 cli app
-	- Use bootstrap or similar for styling
+	- Use Material for styling
 	- Must be locally testable 
 
 tech challenges:

@@ -1,3 +1,4 @@
 [] mvp docker angular app
 	- create angular app
 	- install docker
+	- dockerise with live reload
